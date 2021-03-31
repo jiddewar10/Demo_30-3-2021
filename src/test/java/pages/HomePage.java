@@ -7,7 +7,7 @@ public class HomePage {
 		System.out.println("Home Page 1");
 		System.out.println("Home Page 2");
 
-
+System.out.println("Home page 3");
 	}
 
 }
